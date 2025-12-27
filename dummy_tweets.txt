@@ -1,0 +1,46 @@
+# This file stores dummy tweets for simulation.
+# Lines starting with POS: are positive, NEG: are negative.
+
+# POSITIVE
+POS: Just started learning #{hashtag} and I'm loving it! So many possibilities.
+POS: This is the best, I really love #{hashtag}!
+POS: I'm so happy today, #{hashtag} is amazing.
+POS: Had a wonderful time. #{hashtag} made my day.
+POS: Wow, #{hashtag} is really inspiring me. Great community.
+POS: Can't get enough of #{hashtag}. So good!
+POS: Shoutout to everyone working with #{hashtag}, you're all awesome.
+POS: Finally finished my project on #{hashtag}. I'm so proud!
+POS: This #{hashtag} conference is fantastic, learning so much.
+POS: I highly recommend this, #{hashtag} is a game changer.
+POS: Just got my certification in #{hashtag}! Feeling accomplished.
+POS: My team just won the hackathon using #{hashtag}. Unbelievable!
+POS: The new update for #{hashtag} is so much better than the old one.
+POS: #{hashtag} is genuinely making my life easier.
+POS: That was a brilliant presentation on #{hashtag}.
+POS: I'm feeling very optimistic about the future of #{hashtag}.
+POS: What a beautiful day to be working with #{hashtag}.
+POS: Best decision I ever made was learning #{hashtag}.
+POS: The speaker on #{hashtag} was incredible. So motivating!
+POS: I'm so grateful for the #{hashtag} community. Everyone is so helpful.
+
+# NEGATIVE
+NEG: I hate this, it's the worst. #{hashtag} is a total scam.
+NEG: Terrible service and a bad product. #{hashtag} is so bad.
+NEG: Feeling sad and frustrated about #{hashtag}.
+NEG: I am so disappointed in #{hashtag}. Never again.
+NEG: What a waste of time, #{hashtag} is awful.
+NEG: I just can't understand #{hashtag}, it's too complicated and annoying.
+NEG: My code is broken again... this #{hashtag} bug is impossible to find.
+NEG: I've been on hold for an hour. This company is a joke. #{hashtag}
+NEG: Why is #{hashtag} so slow today? I can't get any work done.
+NEG: Ugh, another pointless meeting about #{hashtag}.
+NEG: I think I'm going to give up on #{hashtag}. It's just not working.
+NEG: This is a nightmare. My #{hashtag} file got corrupted.
+NEG: The documentation for #{hashtag} is useless.
+NEG: I would not recommend #{hashtag} to my worst enemy.
+NEG: The new update for #{hashtag} broke everything.
+NEG: This is taking forever. I hate waiting. #{hashtag}
+NEG: I'm so tired of hearing about #{hashtag} all the time.
+NEG: This #{hashtag} tutorial is completely wrong.
+NEG: I regret buying this. #{hashtag} is a waste of money.
+NEG: This is the most frustrating experience I've had in a long time. #{hashtag}
